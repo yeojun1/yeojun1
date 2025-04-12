@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeojun1
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ...
-- 📫 How to reach me yeojun.lim@kakao.com
+- 📫 How to reach me by email: yeojun.lim@kakao.com
 - ⚡ I'm Korean student. Thanks for visiting my page!
 
 <!---
